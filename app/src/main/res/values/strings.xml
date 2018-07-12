@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MiApp3</string>
+    <string name="EditText_Valor1">Ingresa el valor 1</string>
+    <string name="EditText_Valor2">Ingresa el valor 2</string>
+    <string name="textView_Resultado">Resultado</string>
+    <string name="Boton">Calcular</string>
+    <string name="RadioButton_Sumar">Sumar</string>
+    <string name="RadioButton_Restar">Restar</string>
+</resources>
